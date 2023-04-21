@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Author: Shadow -->
+    <title>Super Unique TC Determinator</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="gdata.js"></script>
+    <script src="main.min.js"></script>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <noscript>
+        Please enable javascript to use this calculator.
+    </noscript>
+    
+    <h2>Super Unique (Hell only) TC Determinator for 2.5+</h2>
+    <h3>Select Super Unique</h3>
+    <datalist id="susdata"></datalist>
+    <input id="susearch" list="susdata" placeholder="ex: Bishibosh" value="Bishibosh" autocomplete="off"> <a href="#" class="tooltip">(?) <span>Note: Double-clicking the search box provides a quick way to clear, and then search again.</span></a>
+    <br><br>
+    <div id="sdata">
+        Terms: 
+        TZ = Terrorized, TC = Treasure Class<br>
+        Ratios in <span style="color: #ffcf5e; font-style:italic">gold</span> are the probability for the given item or TC.<br>
+        <br>
+        <div id="tzctls">
+            Character Level: <span id="clvln">63</span> | Monster Level: <span id="mlvln">68</span><br><input id="clvlv" type="range" min="63" max="99">
+            <br>
+        </div>
+        <table>
+            <tr>
+                <th>Area</th>
+                <th>Monster Level</th>
+            </tr>
+            <tr>
+                <td id="area">-</td>
+                <td id="level">-</td>
+            </tr>
+            <tr>
+                <th>Base TC</th>
+                <th>TC</th>
+            </tr>
+            <tr>
+                <td id="btc">-</td>
+                <td id="tc">-</td>
+            </tr>
+            <tr>
+                <th>Max Auto TC</th>
+                <th>Max High Rune</th>
+            </tr>
+            <tr>
+                <td id="maxatc">-</td>
+                <td id="maxhr">-</td>
+            </tr>
+            <tr>
+                <th>Base TZ TC</th>
+                <th>TZ TC</th>
+            </tr>
+            <tr>
+                <td id="btztc">-</td>
+                <td id="tztc">-</td>
+            </tr>
+            <tr>
+                <th>TZ Max Auto TC</th>
+                <th>TZ Max High Rune</th>
+            </tr>
+            <tr>
+                <td id="tzmaxatc">-</td>
+                <td id="tzmaxhr">-</td>
+            </tr>
+        </table>
+    </div>
+    
+</body>
+</html>
