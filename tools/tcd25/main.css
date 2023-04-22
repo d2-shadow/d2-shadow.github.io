@@ -56,12 +56,20 @@ a.tooltip:hover span, a.tooltip:focus span, div#tzctls{
     display: inline-block;
 }
 
+span#soc a{
+    color: #ffcf5e;
+}
+
 @media screen and (max-width: 480px){
     body{
         font-size: 16px;
     }
     
     div table{
+        font-size: 14px;
+    }
+    
+    span#soc{
         font-size: 14px;
     }
 }
