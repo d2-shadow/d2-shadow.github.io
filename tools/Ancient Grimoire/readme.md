@@ -20,7 +20,13 @@ You can access Runewords and Recipes via main menu by clicking the **Ancient Gri
 9. Done. Have fun.
 
 ## Credit
+### Made by Shadow (That's me)
 
+### Information sourced from
+**Game Data.**
+**Arreat Summit** - Recipes, Runewords, etc.. 
+**D2IO (Diablo2.io)** - Some information on newer runewords.
+**Blizzard** - Patch blog posts primarily.
 
 ## A little self-promo
 I work on the YouTube channel [Warth3ory](https://www.youtube.com/@Warth3ory?sub_confirmation=1).
