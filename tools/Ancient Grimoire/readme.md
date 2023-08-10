@@ -1,6 +1,10 @@
 ## Disclaimer
 **The risk with using this on BNET is unclear. So if you're paranoid, DON'T use this outside of Single Player.**
 
+## Known Issue
+### Issue with tab selection
+When closing and then opening the menu, your last selected tab is still selected even though the first tab is loaded. Switch tabs to correct this. I don't know how to fix this unfortunately.
+
 ## How to Use
 You can access Runewords and Recipes via main menu by clicking the **Ancient Grimoire** button.
 
@@ -14,6 +18,9 @@ You can access Runewords and Recipes via main menu by clicking the **Ancient Gri
 7. Create a folder named "mods" in your "INSTALL LOCATION" folder if it doesn't already exist.
 8. Extract the "AncientGrimoire" folder into the newly created "mods" folder.
 9. Done. Have fun.
+
+## Credit
+
 
 ## A little self-promo
 I work on the YouTube channel [Warth3ory](https://www.youtube.com/@Warth3ory?sub_confirmation=1).
