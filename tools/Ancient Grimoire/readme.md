@@ -3,6 +3,7 @@
 
 ## How to Use
 You can access Runewords and Recipes via main menu by clicking the **Ancient Grimoire** button.
+
 ## How to install
 1. Open BNET agent.
 2. Navigate to "Diablo II: Resurrected" Tab.
@@ -13,3 +14,8 @@ You can access Runewords and Recipes via main menu by clicking the **Ancient Gri
 7. Create a folder named "mods" in your "INSTALL LOCATION" folder if it doesn't already exist.
 8. Extract the "AncientGrimoire" folder into the newly created "mods" folder.
 9. Done. Have fun.
+
+## A little self-promo
+I work on the YouTube channel [Warth3ory](https://www.youtube.com/@Warth3ory?sub_confirmation=1).
+Me and Theory collaborate on videos, you can check us out here.
+We like doing projects like these for the community. :)
