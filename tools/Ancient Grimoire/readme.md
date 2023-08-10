@@ -1,4 +1,5 @@
-## Disclaimer: The risk with using this on BNET is unclear. So if you're paranoid, DON'T use this outside of Single Player.
+## Disclaimer: 
+- **The risk with using this on BNET is unclear. So if you're paranoid, DON'T use this outside of Single Player.**
 
 #### **How to Use**:
 You can access Runewords and Recipes via main menu by clicking the **Ancient Grimoire** button.
