@@ -1,9 +1,9 @@
 ## Disclaimer
 **The risk with using this on BNET is unclear. So if you're paranoid, DON'T use this outside of Single Player.**
 
-#### **How to Use**:
+## How to Use:
 You can access Runewords and Recipes via main menu by clicking the **Ancient Grimoire** button.
-#### **How to install**:
+## How to install:
 1. Open BNET agent.
 2. Navigate to "Diablo II: Resurrected" Tab.
 3. Click the Gear Icon next to the "Play" button.
