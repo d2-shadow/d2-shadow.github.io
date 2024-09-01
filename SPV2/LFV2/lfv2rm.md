@@ -31,10 +31,12 @@
 
 | ![](images/oilgas.png) |
 | :--------------------- |
+
 **Health and Mana potions received similar treatment and Rejuvenation potions had some adjustments as well:**
 
 | ![](images/hpmp.png) | ![](images/rejuvs.png) |
 | :------------------- | ---------------------- |
+
 **Stamina potions have been renamed to `Milk` in reference to what the *Cow King* drops upon completing his quest. Also.. no more colored antidote and thawing potions:**
 
 | ![](images/stammilk.png) | ![](images/antidote.png) | ![](images/thawing.png) |
@@ -54,6 +56,7 @@ Uber Keys and Essences:
 
 | ![](images/jewelry.png) |
 | :---------------------- |
+
 **Charms (Large Charms get no effect):**
 
 | ![](images/charms.png) |
@@ -64,6 +67,7 @@ Uber Keys and Essences:
 | ![](images/perfectgems.png) | ![](images/flawlessgems.png) | ![](images/normgems.png) |
 | :-------------------------- | :--------------------------- | ------------------------ |
 | ![](images/flawedgems.png)  | ![](images/chippedgems.png)  |                          |
+
 Gold:
 
 | ![](images/gold.png) |
@@ -84,13 +88,14 @@ Gold:
 
 #### The crown jewel of the entire loot filter is all the changes I put in for runes! Every high and mid rune now have a VFX (Rune Glyph) that displays their image above them on the ground:
 
-| High Runes ![](images/highruneglyphs.png) | Mid Runes ![](images/midruneglyphs.png) |
+| High Runes <br> ![](images/highruneglyphs.png) | Mid Runes <br> ![](images/midruneglyphs.png) |
 | :---------------------------------------- | --------------------------------------- |
 
 **Runes also have some slightly different naming and Color Theory inspired coloration to make them stand out better. I also retained the Rune Number associated with each rune so you can quickly remember what upgrades into what:**
 
-| High Runes (Red & Green) ![](images/highrunes.png) | Mid Runes (Gold & Yellow) ![](images/midrunes.png) | Low Runes (Orange & Sky Blue) ![](images/lowrunes.png) |
+| High Runes (Red & Green) <br> ![](images/highrunes.png) | Mid Runes (Gold & Yellow) <br> ![](images/midrunes.png) | Low Runes (Orange & Sky Blue) <br> ![](images/lowrunes.png) |
 | :------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ |
+
 In addition to all the name and VFX modifications, I've also added drop-only sound effects to every high and mid rune.
 
 I made it easy to modify these sounds if you're not a fan of them, I did this by adding a unique sound entry for every rune in the game, so if you wanted for some reason to give a *Sol Rune* a sound, you would find the folder where the rune sounds are (`data/hd/global/sfx/item`) and simply place a *.flac* file in there named `drop_sol_hd.flac`
