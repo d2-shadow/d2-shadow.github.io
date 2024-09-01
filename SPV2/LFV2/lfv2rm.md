@@ -68,6 +68,7 @@ Uber Keys and Essences:
 | :-------------------------- | :--------------------------- | ------------------------ |
 | ![](images/flawedgems.png)  | ![](images/chippedgems.png)  |                          |
 
+
 Gold:
 
 | ![](images/gold.png) |
@@ -88,13 +89,18 @@ Gold:
 
 #### The crown jewel of the entire loot filter is all the changes I put in for runes! Every high and mid rune now have a VFX (Rune Glyph) that displays their image above them on the ground:
 
-| High Runes <br> ![](images/highruneglyphs.png) | Mid Runes <br> ![](images/midruneglyphs.png) |
-| :---------------------------------------- | --------------------------------------- |
+| High Runes                     | Mid Runes                     |
+| :----------------------------- | ----------------------------- |
+| ![](images/highruneglyphs.png) | ![](images/midruneglyphs.png) |
+
+
 
 **Runes also have some slightly different naming and Color Theory inspired coloration to make them stand out better. I also retained the Rune Number associated with each rune so you can quickly remember what upgrades into what:**
 
-| High Runes (Red & Green) <br> ![](images/highrunes.png) | Mid Runes (Gold & Yellow) <br> ![](images/midrunes.png) | Low Runes (Orange & Sky Blue) <br> ![](images/lowrunes.png) |
-| :------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ |
+| High Runes (Red & Green)  | Mid Runes (Gold & Yellow) | Low Runes (Orange & Sky Blue) |
+| :------------------------ | ------------------------- | ----------------------------- |
+| ![](images/highrunes.png) | ![](images/midrunes.png)  | ![](images/lowrunes.png)      |
+
 
 In addition to all the name and VFX modifications, I've also added drop-only sound effects to every high and mid rune.
 
