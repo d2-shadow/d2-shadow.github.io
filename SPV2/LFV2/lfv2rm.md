@@ -1,6 +1,6 @@
 # Loot Filter Changes
 
----
+
 ## Trash tier affixes
 
 **`Low Quality`, `Damaged`, `Cracked`, and `Crude` item affixes have been modified to blacken the text of the base item, and a grey `(Trash)` label underneath it to quickly identify it as such:**
