@@ -2,7 +2,7 @@
 
 ## Loot Filter 2.0
 
-Well, I've created a loot filter more or less from scratch for this release, it features the standard string modifications (i.e., some names changed, some new text colors), and I've also given all mid to high runes *Rune Glyphs* and Beam VFX. I've also added custom *drop only* sound effects for mid and high runes. Read more about it in the [[Loot Filter Guide]].
+Well, I've created a loot filter more or less from scratch for this release, it features the standard string modifications (i.e., some names changed, some new text colors), and I've also given all mid to high runes *Rune Glyphs* and Beam VFX. I've also added custom *drop only* sound effects for mid and high runes. Read more about it in the [Loot Filter Guide](LFV2).
 
 ## Lightning Javelin
 
